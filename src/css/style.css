@@ -1,0 +1,200 @@
+.home {
+  background-image: url('http://i2.cdn.turner.com/cnnnext/dam/assets/141125161220-city-golf-steenberg-cpt-horizontal-large-gallery.jpg');
+  background-size: cover;
+  height: 700px;
+  margin-top: -50px;
+}
+
+#mainTitle {
+  margin-top: 250px;
+  color: white;
+  font-family: helvetica;
+  font-size: 60px;
+}
+
+.addInput {
+  width: 100% !important;
+}
+
+.AppBar {
+  background-color: #e17822 !important;
+}
+
+.AppBar h1 {
+  color: #fff !important;
+}
+
+.AppBar div {
+  background-color: #e17822 !important;
+  margin-right: 20px;
+  margin-top: 2px;
+  color: #fff;
+}
+
+.Tab div {
+  color: #fff;
+}
+
+.loginFrame {
+  margin-top: 100px;
+}
+
+.editorFrame {
+  border: 1px solid #000;
+}
+
+.sampleText {
+  background-color: #FAFAFA;
+  width: 100%;
+  padding: 10px;
+  font-size: 15px;
+}
+
+.userAuthPaper {
+  padding: 20px;
+}
+
+
+.docThumbnail {
+  width: 100%;
+  margin-top: 30px;
+}
+
+.viewThumbnail {
+  width: 100%;
+}
+.viewThumbnail:hover {
+  border: 1px solid #000;
+}
+
+.uploadInput {
+  padding: 10px;
+}
+
+.chooseFile {
+  margin-left: 150px;
+}
+
+.fileArea {
+  margin-top: 30px;
+}
+
+.fromTo {
+  margin: 10px;
+}
+
+.formArea {
+  width: 530px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.orTag {
+  margin-right: 20px;
+  margin-left: -50px;
+  font-size: 20px;
+}
+
+.flatBtn {
+  width: 200px;
+}
+
+.ddMF {
+  margin-right: 40px;
+}
+
+.modalImage {
+  width: 100%;
+}
+
+#edit {
+  margin-top: 20px;
+  font-size: 10px;
+}
+
+.nameText {
+  font-size: 14px;
+  font-weight: bolder;
+  padding: 10px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.timeArea {
+  margin-top: -10px;
+  color: green;
+  font-style: italic;
+  font-size: 12px;
+  padding-left: 10px;
+}
+
+.lang {
+  padding-left: 10px;
+  font-style: oblique;
+  color: #B2EBF2;
+}
+
+
+.curved_box {
+    display: inline-block;
+    *display: inline;
+    width: 300px;
+    height: 460px;
+    margin: 20px;
+    background-color: #fff;
+    border: 1px solid #eee;
+    -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.27), 0 0 60px rgba(0, 0, 0, 0.06) inset;
+    -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.27), 0 0 40px rgba(0, 0, 0, 0.06) inset;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.27), 0 0 40px rgba(0, 0, 0, 0.06) inset;
+    position: relative;
+    *zoom: 1;
+}
+
+.curved_box:before {
+    -webkit-transform: skew(-15deg) rotate(-6deg);
+    -moz-transform: skew(-15deg) rotate(-6deg);
+    transform: skew(-15deg) rotate(-6deg);
+    left: 22px;
+}
+.curved_box:after {
+    -webkit-transform: skew(15deg) rotate(6deg);
+    -moz-transform: skew(15deg) rotate(6deg);
+    transform: skew(15deg) rotate(6deg);
+    right: 22px;
+}
+
+.curved_box:before, .curved_box:after {
+    width: 70%;
+    height: 55%;
+    content: ' ';
+
+    -webkit-box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+
+    position: absolute;
+    bottom: 10px;
+    z-index: -1;
+}
+
+.hellohello {
+  height: 100px;
+  width: 100px;
+  color: white;
+}
+
+.titles {
+  color: white;
+}
+
+.titleFrame {
+  padding-top: 400px;
+}
+
+.splashPage {
+  background-image: url('https://hd.unsplash.com/photo-1465929639680-64ee080eb3ed');
+  height: 800px;
+  width: 100%;
+  background-size: cover;
+  margin-top: -200px;
+}
